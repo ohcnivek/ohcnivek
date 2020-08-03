@@ -2,8 +2,8 @@
 
 i'm kevin, a second year student at Georgia Tech learning about the world & how I can do my part in making it a better place with code. 
 
+- 💻 check out my gitlab [here](https://gitlab.com/ohcnivek) to see all of what ive been upto
 - 💬 learn more about me [here!](https://kevincho.herokuapp.com/)
-
 - 📫 reach out to me <a href="mailto:kevincho@gatech.edu">here!</a>
 
 ### lets hangout!
