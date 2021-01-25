@@ -1,8 +1,7 @@
-### Howdy
+### howdy
 
 I'm Kevin, a second year computer science major at Georgia Tech learning about the world & how I can do my part in making it a better place with code. 
 
-- 💻 Check out my gitlab [here](https://gitlab.com/ohcnivek) to see all of what ive been upto. Most of my work takes place in private repos on Gitlab, but it's still pretty cool to see the activity :) 
 - 💬 Learn more about me [here!](https://kevincho.herokuapp.com/)
 - 📫 Reach out to me <a href="mailto:kevincho@gatech.edu">here!</a>
 
