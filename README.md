@@ -1,4 +1,4 @@
-### howdy
+### Howdy
 
 I'm Kevin, a second year computer science major at Georgia Tech learning about the world & how I can do my part in making it a better place with code. 
 
