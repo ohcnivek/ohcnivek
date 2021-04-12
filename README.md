@@ -1,6 +1,6 @@
 ### Howdy!
 
-I'm Kevin, a second year computer science major at Georgia Tech learning about the world & how I can do my part in making it a better place with code. 
+I'm Kevin, a second year computer science major at Georgia Tech learning about the world & how I can do my part in making it a better place with code. I'm currently  a Software Engineer Co-op at Delta Air Lines (Delta Flight Products) working on delivering a more interactive & cost effective in-flight entertainment system.  
 
 - 💬 Learn more about me [here!](https://kevincho.herokuapp.com/)
 - 📫 Reach out to me <a href="mailto:kevincho@gatech.edu">here!</a>
