@@ -6,9 +6,9 @@ I'm Kevin, a third year computer science major at Georgia Tech learning about th
 - 💬 Learn more about me [here!](https://kevincho.herokuapp.com/)
 - 📫 Reach out to me <a href="mailto:kevincho@gatech.edu">here!</a>
 
-### Lets hangout!
+<!-- ### Lets hangout!
 <a href="https://twitter.com/certifiedaf" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-1024.png" height="60px" width="60px" alt="Twitter"></a>
-<a href="https://www.linkedin.com/in/kevinhcho/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-1024.png" height="60px" width="60px" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/kevinhcho/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-1024.png" height="60px" width="60px" alt="LinkedIn"></a> -->
 
 
 
