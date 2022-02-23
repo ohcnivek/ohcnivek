@@ -1,6 +1,6 @@
 ### Heyo!
 
-I'm Kevin, a third year computer science major at Georgia Tech learning about the world & how I can do my part in making it a better place with code.
+I'm Kevin, a third year computer science student at Georgia Tech learning about the world & how I can do my part in making it a better place with code.
 - 💬 Learn more about me [here!](https://kevincho.me)
 - 📫 Reach out to me <a href="mailto:kevincho@gatech.edu">here!</a>
 
