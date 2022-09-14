@@ -1,10 +1,12 @@
-### Heyo!
+Hey there! I’m currently a senior at Georgia Tech learning how I can do my part in making the world a better place with code. Currently, I'm a Software Engineer Intern at [Aviator](https://aviator.co), working on developer productivity tools. Previously, I worked at [Facebook](https://facebook.com) as a Software Engineer Intern where I worked on internal tools for Facebook's Engineering Bootcamp.
 
-I'm Kevin, a fourth year computer science student at Georgia Tech learning about the world & how I can do my part in making it a better place with code.
-- 💬 Learn more about me [here!](https://kevincho.me)
-- 📫 Reach out to me <a href="mailto:kevincho@gatech.edu">here!</a>
-
-
+### Recent blogs posts on [kevincho.blog](https://kevincho.blog)
+- [Alignment](https://kevincho.blog/alignment/)
+- [Happinness & Uncertainty](https://kevincho.blog/uncertainty/)
+- [Things I don't konw](https://kevincho.blog/things-i-dont-understand/)
+- [Lukewarm Faith](https://kevincho.blog/lukewarm-christianity/)
+- [My Teaching & Learning Philosophy](https://kevincho.blog/my-teaching-philosophy/)
+- [Slightly Past the Point of Failure](https://kevincho.blog/going-past-failure/)
 
 
 
