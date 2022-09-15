@@ -3,7 +3,7 @@ Hey there! I’m currently a senior at Georgia Tech learning how I can do my par
 ### Recent blogs posts on [kevincho.blog](https://kevincho.blog)
 - [Alignment](https://kevincho.blog/alignment/)
 - [Happinness & Uncertainty](https://kevincho.blog/uncertainty/)
-- [Things I don't konw](https://kevincho.blog/things-i-dont-understand/)
+- [Things I don't know](https://kevincho.blog/things-i-dont-understand/)
 - [Lukewarm Faith](https://kevincho.blog/lukewarm-christianity/)
 - [My Teaching & Learning Philosophy](https://kevincho.blog/my-teaching-philosophy/)
 - [Slightly Past the Point of Failure](https://kevincho.blog/going-past-failure/)
