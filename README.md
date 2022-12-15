@@ -1,6 +1,8 @@
 Hey there! I’m currently a senior at Georgia Tech learning how I can do my part in making the world a better place with code. 
 
-I'm an [incoming] software engineer at [Gecko Robotics (YC W16)](https://www.geckorobotics.com/). Previously, I worked at [Meta (Facebook)](https://facebook.com) as a software engineer intern where I worked on internal data management tools for Facebook's Engineering Bootcamp. I also built developer productivity tools at [Aviator (YC S21)](https://aviator.co)!
+I'm an [incoming] software engineer at [Gecko Robotics (YC W16)](https://www.geckorobotics.com/). 
+
+Currently, I'm finshing up school & building developer producitivty tools at [Aviator (YC S21)](https://aviator.co)! Previously, I worked at [Meta (Facebook)](https://facebook.com) as a software engineer intern where I worked on internal data management tools for Facebook's Engineering Bootcamp.
 
 ### Recent blogs posts on my substack, [wagmi](https://letswin.substack.com/)
 - [technical - Backtracking -> Backtrackin -> Backtracki -> Backtracin -> Backtracking [1/n]](https://letswin.substack.com/p/technical-smack-down-backtracking)
