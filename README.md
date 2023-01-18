@@ -3,7 +3,8 @@ Hey there! I’m an [incoming] software engineer at [Gecko Robotics (YC W16)](ht
 Currently, I'm finishing up school & building developer producitivty tools at [Aviator (YC S21)](https://aviator.co)! Previously, I worked at [Meta (Facebook)](https://facebook.com) as a software engineer intern where I worked on internal data management tools for Facebook's Engineering Bootcamp.
 
 ### Recent blogs posts on my substack, [wagmi](https://letswin.substack.com/)
-- [finding empathy in big numbers](https://open.substack.com/pub/letswin/p/finding-empathy-in-big-numbers?r=1qnw3j&utm_campaign=post&utm_medium=web)
+- [finding empathy in big numbers](https://open.substack.com/pub/letswin/p/finding-empathy-in-big-numbers)
+- [the illusion of catching up](https://open.substack.com/pub/letswin/p/the-illusion-of-catching-up)
 - [technical - Backtracking -> Backtrackin -> Backtracki -> Backtracin -> Backtracking [1/n]](https://letswin.substack.com/p/technical-smack-down-backtracking)
 - [What the fu*k is happening?](https://letswin.substack.com/p/what-the-fuk-is-happening)
 - [Just Slightly Past the Point of Failure](https://letswin.substack.com/p/just-slightly-past-the-point-of-failure)
