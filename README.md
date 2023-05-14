@@ -1,6 +1,6 @@
-Hey there! I’m an [incoming] software engineer at [Gecko Robotics](https://www.geckorobotics.com/) & a senior at Georgia Tech learning how to make the world a better place with code.
+Hey there! I’m an [incoming] software engineer at [Gecko Robotics](https://www.geckorobotics.com/) & have a Bachelor of Science in Computer Science from the Georgia Institute of Technology 🐝 
 
-Currently, I'm finishing up school & building developer productivity tools at [Aviator](https://aviator.co)! Previously, I worked at [Meta (Facebook)](https://facebook.com) as a software engineer intern where I worked on internal data management tools for Facebook's Engineering Bootcamp.
+Currently, I'm building developer productivity tools at [Aviator](https://aviator.co) as software engineer intern! Previously, I worked at [Meta (Facebook)](https://facebook.com) as a software engineer intern where I worked on internal data management tools for Facebook's Engineering Bootcamp.
 
 ### Recent blogs posts on my substack, [wagmi](https://letswin.substack.com/)
 - [Finding empathy in big numbers](https://open.substack.com/pub/letswin/p/finding-empathy-in-big-numbers)
