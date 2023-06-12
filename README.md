@@ -1,6 +1,6 @@
-Hey there! I’m an [incoming] software engineer at [Gecko Robotics](https://www.geckorobotics.com/) & have a Bachelor of Science in Computer Science from the Georgia Institute of Technology 🐝 
+Hey there! I’m a software engineer at [Gecko Robotics](https://www.geckorobotics.com/) & have a Bachelor of Science in Computer Science from the Georgia Institute of Technology 🐝 
 
-Previously, I worked on internal data management tools at [Facebook](https://facebook.com) as a software engineer intern & built developer productivity tools at [Aviator](https://aviator.co).
+Previously, I've worked on internal data management tools at [Facebook](https://facebook.com) as a software engineer intern & built developer productivity tools at [Aviator](https://aviator.co).
 
 ### Technical things I've written: 
 - [How do git commits *actually* work?](https://www.aviator.co/blog/how-do-git-commits-actually-work/)
