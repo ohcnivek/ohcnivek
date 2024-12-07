@@ -1,9 +1,9 @@
 **tl;dr:** Software Engineer working on Wearables Infrastructure at Reality Labs + studied CS at Georgia Tech.
 
-### Technical things I've written: 
+#### Technical things I've written: 
 - [How do git commits *actually* work?](https://www.aviator.co/blog/how-do-git-commits-actually-work/)
 
-### Recent blogs posts on my substack, [wagmi](https://letswin.substack.com/)
+#### Recent blogs posts on my substack, [wagmi](https://letswin.substack.com/)
 - [Finding empathy in big numbers](https://open.substack.com/pub/letswin/p/finding-empathy-in-big-numbers)
 - [The illusion of catching up](https://open.substack.com/pub/letswin/p/the-illusion-of-catching-up)
 - [Technical - Backtracking -> Backtrackin -> Backtracki -> Backtracin -> Backtracking [1/n]](https://letswin.substack.com/p/technical-smack-down-backtracking)
