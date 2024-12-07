@@ -1,4 +1,4 @@
-Hey there! I’m currently a software engineer at Facebook Reality Labs & have a Bachelor of Science in Computer Science from the Georgia Institute of Technology 🐝 
+**tl;dr:** Software Engineer working on Wearables Infrastructure at Reality Labs + studied CS at Georgia Tech.
 
 ### Technical things I've written: 
 - [How do git commits *actually* work?](https://www.aviator.co/blog/how-do-git-commits-actually-work/)
